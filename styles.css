@@ -2,7 +2,17 @@ body {
   text-align: center;
   background-color: #011F3F;
 }
-
+footer{
+  text-align: center;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: orange;
+}
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
